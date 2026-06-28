@@ -1,0 +1,14 @@
+# Ambientes virtuais
+backend/.venv/
+venv/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente local
+.env
+
+# Pastas do Docker 
+.docker/
